@@ -1,0 +1,139 @@
+Case #,Cause of Death,Type of Incident,Location Found,Latitude,Longitude,Accuracy of Location,Date of Death,Year,Identified?,Age,Age Range,Gender,Nationality,Enforcement Related,PMI,BSITS
+2023-1359,Probable Arrhythmia,Environmental Exposure,2400 S Avenue A (YRMC),32.57433272,-114.7918651,1 mile,12/11/2023,2023,Y,46,46-55,F,Mexico,Unknown,<1 day,Yes
+2023-996,Exposure to High Outdoor Temps,Environmental Exposure,"32.530793, -114.335338",32.530793,-114.335338,GPS,9/12/2023,2023,Y,20,18-25,M,Mexico,Custody,<1 day,"Yes, ""environmental exposure -- cold"""
+2023-936,Exposure to High Outdoor Temps,Environmental Exposure,"32.47377, -113.74123",32.47377,-113.74123,GPS,8/24/2023,2023,Y,18,18-25,M,Dominican Republic,Unknown,<2 days,Yes
+2023-931,Undetermined,Skeletal,"32.320163, -113.705026",32.320163,-113.705026,GPS,8/23/2023,2023,Y,24,18-25,M,Dominican Republic,Unknown,Mummified,"Yes, incorrect nationality"
+2023-807,Exposure to High Outdoor Temps,Environmental Exposure,"32.515038, -114.800964",32.515038,-114.800964,GPS,7/18/2023,2023,Y,29,26-35,F,Ecuador,Unknown,<1 day,Yes
+2023-770,Exposure to High Outdoor Temps,Environmental Exposure,"32.484911, -114.267371",32.484911,-114.267371,GPS,7/5/2023,2023,Y,29,26-35,M,Mexico,Medical distress,<1 day,Yes
+2023-733,Exposure to High Outdoor Temps,Environmental Exposure,"32.44713, -114.55683",32.44713,-114.55683,GPS,6/26/2023,2023,Y,18,18-25,F,Mexico,Unknown,<2 days,Yes
+2023-732,Exposure to High Outdoor Temps,Environmental Exposure,"32.587101, -113.353071",32.587101,-113.353071,GPS,6/25/2023,2023,Y,29,26-35,M,Mexico,Unknown,Moderate decomposition,Yes
+2023-725,Fall From Height,Fall,2400 S Avenue A (YRMC),32.71750865,-114.7199256,.5 miles,6/23/2023,2023,Y,36,36-45,M,Mexico,Fall - Border Barrier,<1 day,"Yes, ""other"""
+2023-610,Exposure to High Outdoor Temps,Environmental Exposure,"32.4101, -114.37025",32.4101,-114.37025,GPS,5/19/2023,2023,Y,31,26-35,M,Mexico,Unknown,<2 days,Yes
+2023-453,Stroke,Environmental Exposure,2400 S Avenue A (YRMC),32.68281084,-114.6357402,GPS,4/7/2023,2023,Y,30,26-35,M,Mexico,Unknown,<1 day,Yes
+2023-438,Physical Exhaustion,Environmental Exposure,County 13th St / River Trail,32.64034835,-114.7649596,0.25 miles,4/4/2023,2023,Y,59,56 and older,M,Mexico,Medical distress,<1 day,Yes
+2023-129,Undermined,Skeletal,"32.589558, -114.386368",32.589558,-114.386368,GPS,1/26/2023,2023,Y,40,36-45,M,Mexico,Unknown,Partially skeletonized,"Yes, date wayyyy off"
+2022-1600,Adult Failure to Thrive,Environmental Exposure,County 12 7/8 St / Levee Rd,32.64639146,-114.7613163,.5 miles,12/19/2022,2022,Y,93,56 and older,M,Nicaragua,Unknown,<1 day,"Yes, ""environmental exposure -- cold"""
+2022-1532,Probable Drowning,Water Related,"32.63463, -114.77493",32.63463,-114.77493,GPS,12/5/2022,2022,Y,60,56 and older,M,Peru,Unknown,<1 day,"Yes, incorrect nationality"
+2023-1517,Fall From Height,Fall,"32.47882, -114.75961",32.47882,-114.75961,GPS,12/1/2022,2022,Y,31,26-35,F,Guatemala,Fall - Border Barrier,<1 day,"Yes, ""other"""
+2022-1485,Exposure to High Outdoor Temps,Environmental Exposure,"32.46832, -114.420373",32.46832,-114.420373,GPS,11/27/2022,2022,Y,40,36-45,M,Mexico,Unknown,Partially skeletonized,Yes
+2022-1339,Undetermined – Skeletal Remains,Skeletal,"32.457011, -114.265366",32.457011,-114.265366,GPS,10/20/2022,2022,Y,46,46-55,M,Mexico,Unknown,Partially skeletonized,Yes
+2022-1325,Exposure to High Outdoor Temps,Environmental Exposure,2400 S Avenue A (YRMC),32.741471,-114.881327,GPS,10/18/2022,2022,Y,24,18-25,M,Mexico,Custody,<1 day,Yes
+2022-1290,Probable Hemorrhagic Shock – Fall,Fall,2400 S Avenue A (YRMC),32.68448044,-114.7387795,1 mile,10/9/2022,2022,Y,28,26-35,F,Mexico,Fall - Border Barrier,<1 day,"Yes, ""other"""
+2022-1267,Exposure to High Outdoor Temps,Environmental Exposure,2400 S Avenue A (YRMC),32.742299,-114.881166,GPS,10/3/2022,2022,Y,31,26-35,F,Mexico,Medical distress,<1 day,Yes
+2022-1265,Undetermined – Skeletal Remains,Skeletal,"32.258589, -113.562377",32.258589,-113.562377,GPS,10/1/2022,2022,Y,32,26-35,M,Mexico,Unknown,Partially skeletonized,"maybe, wrong date, no info"
+2022-1252,Exposure to High Outdoor Temps,Environmental Exposure,"32.39809, -114.42628",32.39809,-114.42628,GPS,9/28/2022,2022,Y,36,36-45,F,Mexico,Unknown,Advanced decomposition,Yes
+2022-1247,Exposure to High Outdoor Temps,Environmental Exposure,"32.23025, -113.431617",32.23025,-113.431617,GPS,9/26/2022,2022,Y,53,46-55,M,Costa Rica,Unknown,Mummified,Yes
+2022-1246,Exposure to High Outdoor Temps,Environmental Exposure,"32.732383, -113.70745",32.732383,-113.70745,GPS,9/26/2022,2022,Y,32,26-35,M,Mexico,Unknown,<2 days,Yes
+2022-1240,Exposure to High Outdoor Temps,Environmental Exposure,"32.48000, -114.530900",32.48,-114.5309,GPS,9/25/2022,2022,Y,19,18-25,M,Mexico,Unknown,Mild decomposition,Yes
+2022-1239,Exposure to High Outdoor Temps,Environmental Exposure,"32.647033, -114.011024",32.647033,-114.011024,GPS,9/25/2022,2022,Y,30,26-35,M,Mexico,Unknown,<1 day,Yes
+2022-1216,Exposure to High Outdoor Temps,Environmental Exposure,"32.581509, -114.794116",32.581509,-114.794116,GPS,9/20/2022,2022,Y,60,56 and older,F,Cuba,Unknown,Advanced decomposition,Yes
+2022-1163,Exposure to High Outdoor Temps,Environmental Exposure,"32.471082, -113.368924",32.471082,-113.368924,GPS,9/8/2022,2022,Y,47,46-55,M,Mexico,Unknown,Skeletal,Yes
+2022-1156,Exposure to High Outdoor Temps,Environmental Exposure,2400 S Avenue A (YRMC),32.68306944,-114.6341773,GPS,9/7/2022,2022,Y,38,36-45,F,Mexico,Custody,<1 day,Yes
+2022-1155,Exposure to High Outdoor Temps,Environmental Exposure,"32.56724, -113.605998",32.56724,-113.605998,GPS,9/6/2022,2022,Y,40,36-45,M,Ecuador,Unknown,Advanced decomposition,Yes
+2022-1125,Exposure to High Outdoor Temps,Environmental Exposure,"32.503023, -113.373677",32.503023,-113.373677,GPS,8/31/2022,2022,Y,44,36-45,M,Mexico,Unknown,Mild decomposition,No
+2022-1107,Exposure to High Outdoor Temps,Environmental Exposure,"32.53028, -114.54094",32.53028,-114.54094,GPS,8/28/2022,2022,Y,26,26-35,M,Mexico,Unknown,Mild decomposition,Yes
+2022-1097,Exposure to High Outdoor Temps,Environmental Exposure,"32.713514, -114.721566",32.713514,-114.721566,GPS,8/24/2022,2022,Y,24,18-25,F,Nicaragua,Medical distress,<1 day,Yes
+2022-1081,Undetermined – Skeletal Remains,Skeletal,"32.19722, -113.38418",32.19722,-113.38418,GPS,8/19/2022,2022,Y,48,46-55,M,Costa Rica,Unknown,Skeletal,Likely
+2022-1034,Exposure to High Outdoor Temps,Environmental Exposure,"32.396333, -113.513833",32.396333,-113.513833,GPS,8/8/2022,2022,Y,23,18-25,M,Mexico,Unknown,Skeletal,No
+2022-1033,Exposure to High Outdoor Temps,Environmental Exposure,"32.396333, -113.513833",32.396333,-113.513833,GPS,8/8/2022,2022,Y,38,36-45,M,Mexico,Unknown,Skeletal,No
+2022-959,Exposure to High Outdoor Temps,Environmental Exposure,"32.343453, -113.91635",32.343453,-113.91635,GPS,7/23/2022,2022,Y,40,36-45,M,Mexico,Unknown,<1 day,No
+2022-956,Exposure to High Outdoor Temps,Environmental Exposure,"32.36377, -113.15364",32.36377,-113.15364,GPS,7/22/2022,2022,Y,41,36-45,M,Mexico,Unknown,<2 days,Yes
+2022-935,Exposure to High Outdoor Temps,Environmental Exposure,"32.611497, -114.524833",32.611497,-114.524833,GPS,7/16/2022,2022,Y,30,26-35,M,Mexico,Unknown,<2 days,Yes
+2022-925,Exposure to High Outdoor Temps,Environmental Exposure,"32.669116, -114.436204",32.669116,-114.436204,GPS,7/14/2022,2022,Y,20,18-25,M,Mexico,Unknown,<1 day,Yes
+2022-923,Exposure to High Outdoor Temps,Environmental Exposure,"32.7587, -114.828",32.7587,-114.828,GPS,7/13/2022,2022,Y,29,26-35,M,Mexico,Custody,<1 day,Yes
+2023-903,Exposure to High Outdoor Temps,Environmental Exposure,"32.702376, -114.728368",32.702376,-114.728368,GPS,7/10/2022,2022,Y,38,36-45,M,Peru,Possible Wall fall,advanced decomposition,likely
+2022-882,Exposure to High Outdoor Temps,Environmental Exposure,"32.500523, -114.535973",32.500523,-114.535973,GPS,7/1/2022,2022,Y,42,36-45,M,Mexico,Unknown,advanced decomposition,"Probably, no name"
+2022-877,Exposure to High Outdoor Temps,Environmental Exposure,"32.482487635, -114.558050",32.48248764,-114.55805,GPS,6/29/2022,2022,Y,18,18-25,M,Mexico,Unknown,<1 day,Yes
+2022-869,Exposure to High Outdoor Temps,Environmental Exposure,"32.558091, -114.558050",32.558091,-114.55805,GPS,6/27/2022,2022,Y,26,26-35,M,Mexico,Unknown,<1 day,No
+2022-858,Exposure to High Outdoor Temps,Environmental Exposure,"32.66420, -113-85978",32.6642,-113.85978,GPS,6/25/2022,2022,Y,21,18-25,M,Guatemala,Medical distress,<1 day,Yes
+2022-819,Exposure to High Outdoor Temps,Environmental Exposure,"32.62621, -114.37033",32.62621,-114.37033,GPS,6/16/2022,2022,Y,23,18-25,M,Mexico,Unknown,<1 day,"Maybe, 6/15"
+2022-808,Exposure to High Outdoor Temps,Environmental Exposure,"32.50122, -11451307",32.50122,-114.51307,GPS,6/14/2022,2022,Y,20,18-25,M,Mexico,Unknown,Advanced decomposition,Yes
+2022-807,Exposure to High Outdoor Temps,Environmental Exposure,"32.604283, -114.38455",32.604283,-114.38455,GPS,6/14/2022,2022,Y,43,36-45,M,Mexico,Unknown,<2 days,Yes
+2022-792,Exposure to High Outdoor Temps,Environmental Exposure,"32.646970, -114.761157",32.64697,-114.761157,GPS,6/12/2022,2022,Y,30,26-35,F,Colombia,Unknown,<1 day,Yes
+2022-791,Exposure to High Outdoor Temps,Environmental Exposure,"32.645647, -114.761800",32.645647,-114.7618,GPS,6/12/2022,2022,Y,48,46-55,F,Colombia,Unknown,<1 day,Yes
+2022-789,Exposure to High Outdoor Temps,Environmental Exposure,"32.418616, -114.181659",32.418616,-114.181659,GPS,6/12/2022,2022,Y,47,46-55,F,Mexico,Unknown,<2 days,Yes
+2022-754,Exposure to High Outdoor Temps,Environmental Exposure,"32.759722, -113.638476",32.759722,-113.638476,GPS,6/5/2022,2022,Y,52,46-55,M,Ecuador/Indian,Unknown,Advanced decomposition,"Yes, nationality mismatch"
+2022-753,Fall From Height,Fall,"32.6904, -114.7348",32.6904,-114.7348,GPS,6/5/2022,2022,Y,36,36-45,M,Mexico,Fall - Border Barrier,<2 days,No
+2022-748,Exposure to High Outdoor Temps,Environmental Exposure,"32.488276, -114.52981",32.488276,-114.52981,GPS,6/2/2022,2022,Y,20,18-25,F,Mexico,Unknown,Mild decomposition,Yes
+2022-726,Exposure to High Outdoor Temps,Environmental Exposure,"32.426526, -113.474719",32.426526,-113.474719,GPS,5/29/2022,2022,Y,40,36-45,M,Mexico,Unknown,Advanced decomposition,No
+2022-694,Exposure to High Outdoor Temps,Environmental Exposure,"32.644724, -113.6637",32.644724,-113.6637,GPS,5/20/2022,2022,Y,23,18-25,M,Mexico,Unknown,Mummified,No
+2022-681,Exposure to High Outdoor Temps,Environmental Exposure,"32.61573, -114.27658",32.61573,-114.27658,GPS,5/17/2022,2022,Y,30,26-35,M,Belize,Unknown,<1 day,"Yes, wrong nationality"
+2022-678,Exposure to High Outdoor Temps,Environmental Exposure,"32.436944, -113.627778",32.436944,-113.627778,GPS,5/16/2022,2022,Y,41,36-45,M,Mexico,Unknown,Advanced decomposition,No
+2022-675,Exposure to High Outdoor Temps,Environmental Exposure,"32.729383, -113.72771",32.729383,-113.72771,GPS,5/16/2022,2022,Y,42,36-45,M,Guatemala,Medical Distress - Not BP,<1 day,Yes
+2022-672,Exposure to High Outdoor Temps,Environmental Exposure,"32.65589, -114.75640",32.65589,-114.7564,GPS,5/14/2022,2022,Y,56,56 and older,F,Cuba,Unknown,Moderate decomposition,No
+2022-670,Exposure to Elements,Environmental Exposure,"32.640000, -114.46683",32.64,-114.46683,GPS,5/12/2022,2022,Y,48,46-55,M,Mexico,Unknown,Advanced decomposition,"Yes, no name"
+2022-669,Exposure to Elements,Environmental Exposure,"32.649333, -113.404333",32.649333,-113.404333,GPS,5/12/2022,2022,Y,37,36-45,M,Mexico,Unknown,Advanced decomposition,Yes
+2022-648,Undetermined – Skeletal Remains,Skeletal,"32.325567, -113.519483",32.325567,-113.519483,GPS,5/7/2022,2022,Y,41,36-45,M,Mexico,Unknown,Advanced decomposition,No
+2022-643,Probable Myocardial Infarction,Environmental Exposure,"32.521405, -114.799226",32.521405,-114.799226,GPS,5/5/2022,2022,Y,52,46-55,M,Cuba,Medical distress,<1 day,Yes
+2022-557,Exposure to Elements,Environmental Exposure,"32.588583, -114.26475",32.588583,-114.26475,GPS,4/11/2022,2022,Y,32,26-35,M,Mexico,Unknown,Advanced decomposition,Yes
+2022-546,Exposure to Elements,Environmental Exposure,"32.665341, -114.273306",32.665341,-114.273306,GPS,4/11/2022,2022,Y,43,36-45,M,Mexico,Unknown,Advanced decomposition,No
+2022-532,Exposure to Elements,Environmental Exposure,"32.568867, -113.496117",32.568867,-113.496117,GPS,4/5/2022,2022,Y,36,36-45,M,Mexico,Unknown,Moderate decomposition,Yes
+2022-515,Exposure to Elements,Environmental Exposure,"32.623583, -113.99655",32.623583,-113.99655,GPS,4/1/2022,2022,Y,20,18-25,M,Mexico,Unknown,Moderate decomposition,No
+2022-437,Probable acute MI,Environmental Exposure,"32.49593, -114.81093",32.49593,-114.81093,GPS,3/12/2022,2022,Y,40,36-45,M,Cuba,Unknown,<1 day,Yes
+2022-357,Fall From Height,Fall,"32.493801, -114.811506",32.493801,-114.811506,GPS,2/24/2022,2022,Y,36,36-45,M,Colombia,Fall - Border Barrier,<1 day,Yes
+2022-209,Acute Respiratory Distress (COVID),Environmental Exposure,2400 S Avenue A (YRMC),32.68251711,-114.6355088,GPS,1/30/2022,2022,Y,49,46-55,M,Haiti,Custody or Use of Force,<1 day,No
+2022-124,Fall From Height,Fall,"32.481161, -114.769524",32.481161,-114.769524,GPS,1/21/2022,2022,Y,46,46-55,F,Mexico,Fall - Border Barrier,<1 day,No
+2022-062,Exposure to Elements,Environmental Exposure,"32.59791, -113.753847",32.59791,-113.753847,GPS,1/13/2022,2022,Y,40,36-45,M,Honduras,Unknown,Skeletal,"Yes, bad date"
+2021-1377,Exposure to High Outdoor Temps,Environmental Exposure,"32.792297, -113.40466",32.792297,-113.40466,GPS,10/24/2021,2021,Y,50,46-55,M,Mexico,Unknown,Skeletal,No
+2021-1186,Exposure to High Outdoor Temps,Environmental Exposure,"32.574702, -114.641498",32.574702,-114.641498,GPS,9/10/2021,2021,Y,28,26-35,F,Mexico,Unknown,<1 day,Yes
+2021-1184,Exposure to High Outdoor Temps,Environmental Exposure,"32.47863, -114.6173",32.47863,-114.6173,GPS,9/10/2021,2021,Y,33,26-35,M,Mexico,Unknown,moderate decomposition,Yes
+2021-1183,Exposure to High Outdoor Temps,Environmental Exposure,"32.47249, -114.608894",32.47249,-114.608894,GPS,9/10/2021,2021,Y,42,36-45,F,Mexico,Unknown,<1 day,Yes
+2021-1182,Exposure to High Outdoor Temps,Environmental Exposure,"32.460636, -114.616562",32.460636,-114.616562,GPS,9/10/2021,2021,Y,37,36-45,F,Mexico,Medical distress,<1 day,Yes
+2021-1141,Undetermined – Skeletal Remains,Skeletal,"32.36392, -113.40193",32.36392,-113.40193,GPS,8/31/2021,2021,Y,22,18-25,M,Guatemala,Unknown,Skeletal,No
+2021-1139,Undetermined – Skeletal Remains,Skeletal,"32.36412, -113-401343",32.36412,-113.401343,GPS,8/31/2021,2021,Y,31,26-35,M,Guatemala,Unknown,Skeletal,No
+2021-1121,Exposure to High Outdoor Temps,Environmental Exposure,"32.69735, -113.879234",32.69735,-113.879234,GPS,8/30/2021,2021,Y,21,18-25,M,Mexico,Unknown,<1 day,Yes
+2021-1115,Exposure to High Outdoor Temps,Environmental Exposure,"32.494292, -114.52135",32.494292,-114.52135,GPS,8/27/2021,2021,Y,25,18-25,M,Mexico,Medical distress,<1 day,Yes
+2021-1110,Exposure to High Outdoor Temps,Environmental Exposure,"32.61010, -114.80566",32.6101,-114.80566,GPS,8/25/2021,2021,Y,10,0-17,F,Colombia,Unknown,<1 day,Yes
+2021-1109,Exposure to High Outdoor Temps,Environmental Exposure,"32.606114, -114.805119",32.606114,-114.805119,GPS,8/25/2021,2021,Y,36,36-45,F,Colombia,Unknown,<1 day,Yes
+2021-1084,Exposure to High Outdoor Temps,Environmental Exposure,"32.433260, -114.376928",32.43326,-114.376928,GPS,8/21/2021,2021,Y,22,18-25,M,Honduras,Unknown,Partially skeletonized,Yes
+2021-1080,"SIRS, Heat Stroke, COVID",Environmental Exposure,"32.70463, -114.725969",32.70463,-114.725969,GPS,8/20/2021,2021,Y,33,26-35,M,Nicaragua,Medical distress,<1 day,No
+2021-1018,Exposure to High Outdoor Temps,Environmental Exposure,"32.549081, -113.692117",32.549081,-113.692117,GPS,8/3/2021,2021,Y,22,18-25,M,Guatemala,Unknown,<1 day,No
+2021-1017,Exposure to High Outdoor Temps,Environmental Exposure,"32.549081, -113.692117",32.549081,-113.692117,GPS,8/3/2021,2021,Y,41,36-45,M,Mexico,Unknown,<1 day,No
+2021-1007,Exposure to High Outdoor Temps,Environmental Exposure,"32.32.647, -114.28.283",32.713056,-114.545278,GPS,8/1/2021,2021,Y,35,26-35,M,Mexico,Unknown,<1 day,No
+2021-897,Undetermined – Skeletal Remains,Skeletal,"32.492653, -114.560416",32.492653,-114.560416,GPS,7/3/2021,2021,Y,26,26-35,M,Mexico,Unknown,Advanced decomposition,Yes
+2021-893,Asphyxia due to Hanging,Other,San Luis Det. & Support Center,32.4842883,-114.684596,GPS,7/1/2021,2021,Y,43,36-45,M,Mexico,Custody,<1 day,No
+2021-882,Exposure to High Outdoor Temps,Environmental Exposure,"32.339117, -113.714883",32.339117,-113.714883,GPS,6/28/2021,2021,Y,45,36-45,M,Mexico,Unknown,Advanced decomposition,"Yes, bad date"
+2021-873,Exposure to High Outdoor Temps,Environmental Exposure,"32.169783, -113.708617",32.169783,-113.708617,GPS,6/26/2021,2021,Y,51,46-55,M,Mexico,Unknown,Mild decomposition,Yes
+2021-859,Exposure to High Outdoor Temps,Environmental Exposure,"32.5781, -113.696167",32.5781,-113.696167,GPS,6/24/2021,2021,Y,28,26-35,M,Mexico,Unknown,Advanced decomposition,Yes
+2021-857,Exposure to High Outdoor Temps,Environmental Exposure,"32.267722, -113.56756",32.267722,-113.56756,GPS,6/23/2021,2021,Y,37,36-45,M,Mexico,Unknown,<1 day,Yes
+2021-817,Exposure to High Outdoor Temps,Environmental Exposure,"32.5551, -114.4690",32.5551,-114.469,GPS,6/13/2021,2021,Y,23,18-25,F,Guatemala,Medical distress,<1 day,Yes
+2021-782,Exposure to High Outdoor Temps,Environmental Exposure,"32.460283, -114.509022",32.460283,-114.509022,GPS,6/1/2021,2021,Y,26,26-35,F,Guatemala,Medical distress,<1 day,Yes
+2021-771,Exposure to Elements,Environmental Exposure,"32.46805, -114.31861",32.46805,-114.31861,GPS,6/1/2021,2021,Y,40,36-45,M,Mexico,Unknown,Advanced decomposition,Yes
+2021-728,Drowning,Water Related,"32.722274, -114.62526",32.722274,-114.62526,GPS,5/21/2021,2021,Y,27,26-35,M,Mexico,Unknown,Mild decomposition,No
+2021-613,Exposure to Elements,Environmental Exposure,"32.67897007, -113.361547",32.67897007,-113.361547,GPS,4/17/2021,2021,Y,50,46-55,M,Mexico,Unknown,Advanced decomposition,"Yes, bad date"
+2021-557,Exposure to High Outdoor Temps,Environmental Exposure,"32.5354, -113.7965",32.5354,-113.7965,GPS,4/3/2021,2021,Y,24,18-25,F,Mexico,Unknown,<1 day,Yes
+2021-429,Undetermined – Advanced Decom,Skeletal,"32.722175, -114.625413",32.722175,-114.625413,GPS,3/7/2021,2021,Y,32,26-35,M,Honduras,Unknown,Advanced decomposition,No
+2021-297,Undermined – Skeletal Remains,Skeletal,"32.196293, -113.463506",32.196293,-113.463506,GPS,2/9/2021,2021,Y,36,36-45,M,Mexico,Unknown,Skeletal,No
+2020-1652,Undetermined – Skeletal Remains,Skeletal,"32.510819, -114.253354",32.510819,-114.253354,GPS,12/8/2020,2020,Y,45,36-45,M,Mexico,Unknown,Skeletal,Yes
+2020-1442,Exposure to High Outdoor Temps,Environmental Exposure,"32.784083, -113.486083",32.784083,-113.486083,GPS,10/29/2020,2020,Y,28,26-35,M,Mexico,Unknown,Advanced decomposition,No
+2020-1271,Exposure to High Outdoor Temps,Environmental Exposure,"32.61819, -114.37219",32.61819,-114.37219,GPS,9/10/2020,2020,Y,28,26-35,M,Mexico,Unknown,Advanced decomposition,Yes
+2020-1149,Exposure to High Outdoor Temps,Environmental Exposure,"32.14783, -113.41962",32.14783,-113.41962,GPS,8/16/2020,2020,Y,14,0-17,M,Mexico,Pursuit,<1 day,Yes
+2020-1148,Exposure to High Outdoor Temps,Environmental Exposure,"32.14783, -113.41962",32.14783,-113.41962,GPS,8/16/2020,2020,Y,29,26-35,M,Mexico,Pursuit,<1 day,Yes
+2020-1058,Fall From Height,Fall,"32.4964, -114.80891",32.4964,-114.80891,GPS,8/1/2020,2020,Y,34,26-35,M,Mexico,Fall - Border Barrier,<1 day,OPR only
+2020-981,Exposure to High Outdoor Temps,Environmental Exposure,"32.493171, -114.622583",32.493171,-114.622583,GPS,7/20/2020,2020,Y,35,26-35,M,Mexico,Unknown,Advanced decomposition,No
+2020-975,Exposure to High Outdoor Temps,Environmental Exposure,"32.22518, -113.18875",32.22518,-113.18875,GPS,7/19/2020,2020,Y,41,36-45,M,Mexico,Unknown,<1 day,No
+2020-973,Exposure to High Outdoor Temps,Environmental Exposure,"32.22518, -113.18875",32.22518,-113.18875,GPS,7/19/2020,2020,Y,26,26-35,M,Mexico,Unknown,<1 day,No
+2020-861,Exposure to High Outdoor Temps,Environmental Exposure,"32.472066, -114.05183",32.472066,-114.05183,GPS,7/5/2020,2020,Y,49,46-55,M,Mexico,Unknown,<2 days,Yes
+2020-860,Exposure to High Outdoor Temps,Environmental Exposure,"32.27037, -114.00981",32.27037,-114.00981,GPS,7/5/2020,2020,Y,46,46-55,M,Mexico,Unknown,<2 days,Yes
+2020-847,Drowning,Water Related,"32.34.016, -114.46.86826",32.571111,-114.790785,GPS,7/3/2020,2020,Y,Unknown,Unknown,M,Honduras,Unknown,<2 days,No
+2019-835,Blunt Force Trauma – MVC,Motor Vehicle Related,"32.581824, -114.769870",32.581824,-114.76987,GPS,8/27/2019,2019,Y,15,0-17,F,Mexico,Unknown,<1 day,No
+2019-834,Blunt Force Trauma – MVC,Motor Vehicle Related,"32.581824, -114.769870",32.581824,-114.76987,GPS,8/27/2019,2019,Y,36,36-45,M,Mexico,Unknown,<1 day,No
+2019-779,Undetermined – Skeletal Remains,Skeletal,"32.63160, -113.69675",32.6316,-113.69675,GPS,8/7/2019,2019,Y,36,36-45,M,Mexico,Unknown,,Yes
+2019-740,Exposure to Elements,Environmental Exposure,"32.28-722, -114.31.295",32.468672,-114.524861,GPS,7/27/2019,2019,Y,46,46-55,F,Mexico,Unknown,<2 days,Yes
+2019-738,Exposure to Elements,Environmental Exposure,"32.041333, -113.6586111",32.151532,-113.642312,1 mile,7/27/2019,2019,Y,47,46-55,M,Mexico,Unknown,Skeletal,No
+2019-573,Exposure to High Temperatures,Environmental Exposure,"32.4258, -114.42564",32.4258,-114.42564,GPS,6/19/2019,2019,Y,39,36-45,F,Guatemala,Unknown,<1 day,No
+2019-334,Exposure to Elements,Environmental Exposure,"32.49.123, -113.24.488",32.820083,-113.413556,GPS,3/24/2019,2019,Y,43,36-45,M,Mexico,Unknown,<1 day,Yes
+2019-051,Exposure to High Outdoor Temps,Environmental Exposure,"32.71133, -113.3223",32.71133,-113.3223,GPS,1/11/2019,2019,Y,24,18-25,M,Mexico,Unknown,Skeletal,No
+2018-933,Exposure to High Temperatures,Environmental Exposure,2400 S Avenue A (YRMC),32.68179262,-114.6353953,GPS,9/23/2018,2018,Y,42,36-45,F,Mexico,Medical distress,<1 day,No
+2018-878,Exposure to High Temperatures,Environmental Exposure,"32.76787, -113.3636",32.76787,-113.3636,GPS,9/7/2018,2018,Y,21,18-25,M,Mexico,Unknown,<2 days,No
+2016-687,Exposure to High Outdoor Temp,Environmental Exposure,"32.42.05167, -113.7979",32.4205167,-113.7979,GPS,8/2/2016,2016,Y,27,26-35,M,Mexico,Unknown,<2 days,Yes
+2016-512,Exposure to High Outdoor Temp,Environmental Exposure,"32.43673, -114.42545",32.43673,-114.42545,GPS,6/4/2016,2016,Y,30,26-35,F,Mexico,Unknown,Advanced decomposition,Yes
+2015-666,Exposure to the Elements,Environmental Exposure,"32.12.876, -113.29.775",32.2146,-113.49625,GPS,8/30/2015,2015,Y,24,18-25,M,Mexico,Unknown,Moderate decomposition,Yes
+2015-491,Exposure to the Elements,Environmental Exposure,"32.43.35, -113.44.01",32.726389,-113.733611,GPS,6/24/2015,2015,Y,27,26-35,M,Mexico,Unknown,Advanced decomposition,No
+2015-474,Exposure to the Elements,Environmental Exposure,"32.21.593, -113.42.320",32.2159,-113.4332,GPS,6/17/2015,2015,Y,23,18-25,M,Mexico,Unknown,<1 day,Yes
+2014-652,Exposure to High Outdoor Temps,Environmental Exposure,"32.06.901, -113.25.997",32.350278,-113.693611,GPS,8/20/2014,2014,Y,36,36-45,M,Mexico,Unknown,Advanced decomposition,No
+2013-431,Unwitnessed Drowning,Water Related,"32.70594, -114.72834",32.70594,-114.72834,GPS,5/27/2013,2013,Y,20,18-25,M,,Unknown,<2 days,Yes
+2013-379,Exposure to Elements,Environmental Exposure,"32.15.41, -113.33.47",32.2615,-113.5634,GPS,5/4/2013,2013,Y,29,26-35,M,Mexico,Unknown,Advanced decomposition,Yes
+2011-747,Probable Exposure to Elements,Environmental Exposure,"32.20.22, -114.06.41",32.339444,-114.111389,GPS,11/3/2011,2011,Y,36,36-45,M,Mexico,Unknown,Moderate decomposition,Yes
+2011-582,Exposure to Elements,Environmental Exposure,"32.31.727, -114.15.521",32.31727,-114.15521,GPS,8/19/2011,2011,Y,21,18-25,M,Mexico,Unknown,Advanced decomposition,Yes
+2011-531,Exposure to Elements,Environmental Exposure,"32.21.43, -113.29.43",32.361944,-113.495278,GPS,7/30/2011,2011,Y,25,18-25,M,Mexico,Possible pursuit,<1 day,Yes
